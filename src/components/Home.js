@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 function Home() {
 
-    const API_KEY = 'AIzaSyDKdnPDXiMilIsW-gVbaVT8he2366AtNDo';
+    const API_KEY = 'AIzaSyDcWE7xPEOWxadYNsUKIUOeTbLZ_rqya9w';
     const [keywords, setKeywords] = useState('');
     const [searchVolume, setSearchVolume] = useState(0);
 
